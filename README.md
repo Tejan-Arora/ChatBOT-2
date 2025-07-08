@@ -1,4 +1,5 @@
 # ChatBOT-2
+### Network URL: http://192.168.1.11:8509
 
 Its full-fledged Conversational RAG Chatbot that:
 1. Accepts PDF uploads
